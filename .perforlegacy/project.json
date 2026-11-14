@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "id": "40950fab-e1fc-4d07-839c-12c5fd426969",
+  "name": "test",
+  "path": "C:\\Users\\Lucas\\AppData\\Roaming\\Perforlegacy\\projects\\40950fab-e1fc-4d07-839c-12c5fd426969",
+  "description": "",
+  "owner": "",
+  "appVersion": "",
+  "notes": "",
+  "readmeLocale": "es",
+  "target": {
+    "args": []
+  },
+  "platform": "windows",
+  "resolution": {},
+  "archived": false,
+  "createdAt": "2026-11-14T00:19:31.226Z",
+  "updatedAt": "2026-11-14T00:19:31.226Z"
+}

@@ -1,0 +1,9 @@
+runs/
+recordings/
+reports/
+environments.legacy.json
+.perforlegacy/cache/
+.perforlegacy/backups/
+.perforlegacy/tmp/
+.perforlegacy/*.db-wal
+.perforlegacy/*.db-shm
